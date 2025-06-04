@@ -1,0 +1,62 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background gradient -->
+    <rect width="1440" height="900" fill="url(#grad)"/>
+    
+    <!-- Subtle Yin-Yang patterns -->
+    <g opacity="0.05">
+        <!-- Large Yin-Yang in top right -->
+        <circle cx="1300" cy="200" r="150" stroke="white" stroke-width="2" fill="none"/>
+        <path d="M1300 50 A 150 150 0 1 1 1300 350 A 75 75 0 1 0 1300 50z" fill="white"/>
+        <circle cx="1300" cy="125" r="20" fill="black"/>
+        <circle cx="1300" cy="275" r="20" fill="white" stroke="black" stroke-width="1"/>
+        
+        <!-- Medium Yin-Yang in bottom left -->
+        <circle cx="200" cy="700" r="100" stroke="white" stroke-width="2" fill="none"/>
+        <path d="M200 600 A 100 100 0 1 1 200 800 A 50 50 0 1 0 200 600z" fill="white"/>
+        <circle cx="200" cy="650" r="15" fill="black"/>
+        <circle cx="200" cy="750" r="15" fill="white" stroke="black" stroke-width="1"/>
+        
+        <!-- Small Yin-Yang in center -->
+        <circle cx="700" cy="450" r="70" stroke="white" stroke-width="2" fill="none"/>
+        <path d="M700 380 A 70 70 0 1 1 700 520 A 35 35 0 1 0 700 380z" fill="white"/>
+        <circle cx="700" cy="415" r="10" fill="black"/>
+        <circle cx="700" cy="485" r="10" fill="white" stroke="black" stroke-width="1"/>
+    </g>
+    
+    <!-- Taoist Trigrams -->
+    <g opacity="0.08">
+        <!-- Qian (Heaven) -->
+        <rect x="100" y="100" width="60" height="10" fill="white"/>
+        <rect x="100" y="120" width="60" height="10" fill="white"/>
+        <rect x="100" y="140" width="60" height="10" fill="white"/>
+        
+        <!-- Kun (Earth) -->
+        <rect x="1200" y="780" width="60" height="10" fill="white"/>
+        <rect x="1200" y="800" width="60" height="10" fill="white"/>
+        <rect x="1200" y="820" width="60" height="10" fill="white"/>
+        
+        <!-- Li (Fire) -->
+        <rect x="1300" y="400" width="60" height="10" fill="white"/>
+        <rect x="1300" y="420" width="60" height="10" fill="white"/>
+        <rect x="1300" y="440" width="60" height="10" fill="white"/>
+        
+        <!-- Kan (Water) -->
+        <rect x="200" y="400" width="60" height="10" fill="white"/>
+        <rect x="200" y="420" width="60" height="10" fill="white"/>
+        <rect x="200" y="440" width="60" height="10" fill="white"/>
+    </g>
+    
+    <!-- Subtle flowing lines -->
+    <path d="M0 300 C 400 350, 800 200, 1440 250" stroke="white" stroke-width="1" opacity="0.1"/>
+    <path d="M0 400 C 500 300, 900 500, 1440 450" stroke="white" stroke-width="1" opacity="0.1"/>
+    <path d="M0 500 C 400 600, 900 550, 1440 600" stroke="white" stroke-width="1" opacity="0.1"/>
+    <path d="M0 700 C 300 650, 800 700, 1440 650" stroke="white" stroke-width="1" opacity="0.1"/>
+    
+    <!-- Gradient definition -->
+    <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#111111;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+</svg> 
