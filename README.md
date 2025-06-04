@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 道易智言 (Dao Yi Zhi Yan) - AI Divination Site
 
 A minimalist AI divination website that combines ancient Taoist philosophy with modern psychological principles to provide insightful guidance.
@@ -40,3 +41,7 @@ Simply open the `index.html` file in a web browser to view the site locally.
 - Expanding the question categories
 - Enhancing animations and transitions
 - Adding more Taoist visual elements 
+=======
+# Taoist
+A minimalist AI divination website combining Taoist philosophy
+>>>>>>> 26e7b5c8ec162d729dcfcac154781e84b5fad363
